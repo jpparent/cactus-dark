@@ -2,9 +2,9 @@ nav:
   Home: /
   About: /about/
   Writing: /archives/
-  Projects: http://github.com/probberechts
+  Projects: http://github.com/jpparent
 
-projects_url: http://github.com/probberechts
+projects_url: http://github.com/jpparent
 
 customize:
     gravatar:
@@ -27,21 +27,21 @@ customize:
         url: /images/apple-touch-icon.png
         gravator: false
     social_links:
-        github: http://github.com/probberechts/cactus-dark
-        twitter: /
-        facebook: /
-        linkedin: /
-    show_all_posts: false
+        github: http://github.com/jpparent
+        #twitter: /
+        #facebook: /
+        linkedin: https://www.linkedin.com/in/jean-philippe-parent-1b58618b
+    show_all_posts: true
     post_count: 5
     highlight: rainbow
 
 # RSS
-rss: false
+rss: atom.xml
 
 # Plugins
 plugins:
-    disqus_shortname: # Disqus Comments Shortname
-    google_analytics: UA-86660611-1 # enter the tracking ID for your Google Analytics
+    disqus_shortname: jeanp_parent # Disqus Comments Shortname
+    google_analytics: UA-106313431-1 # enter the tracking ID for your Google Analytics
 
 # Miscellaneous
 miscellaneous:
