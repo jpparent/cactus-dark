@@ -40,7 +40,7 @@ rss: atom.xml
 
 # Plugins
 plugins:
-    disqus_shortname: jeanp_parent # Disqus Comments Shortname
+    disqus_shortname: jpparent # Disqus Comments Shortname
     google_analytics: UA-106313431-1 # enter the tracking ID for your Google Analytics
 
 # Miscellaneous
